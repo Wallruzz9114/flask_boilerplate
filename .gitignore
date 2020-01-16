@@ -1,6 +1,3 @@
 __pycache__
 .vscode
 Pipfile.lock
-.dockerignore
-Dockerfile
-Dockerfile.prod

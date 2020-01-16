@@ -4,8 +4,8 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-flake8 = "*"
-black = "*"
+flake8 = "==3.7.9"
+black = "==19.10b0"
 
 [packages]
 flask = "===1.1.1"

@@ -11,6 +11,6 @@ class User(db.Model):
     active = db.Column(db.Boolean(), default=True, nullable=False)
     created_date = db.Column(db.DateTime, default=func.now(), nullable=False)
 
-    def __init__(self, username, email):
+    def __init__(self, username="", email=""):
         self.username = username
         self.email = email

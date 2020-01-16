@@ -7,6 +7,8 @@ verify_ssl = true
 flake8 = "==3.7.9"
 black = "==19.10b0"
 pytest = "==5.3.1"
+pytest-cov = "==2.8.1"
+isort = "==4.3.21"
 
 [packages]
 flask = "===1.1.1"

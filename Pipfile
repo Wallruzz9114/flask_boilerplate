@@ -11,7 +11,7 @@ pytest-cov = "==2.8.1"
 isort = "==4.3.21"
 
 [packages]
-flask = "===1.1.1"
+flask = "===2.2.5"
 flask-restplus = "===0.13.0"
 flask-sqlalchemy = "==2.4.1"
 psycopg2-binary = "==2.8.4"
